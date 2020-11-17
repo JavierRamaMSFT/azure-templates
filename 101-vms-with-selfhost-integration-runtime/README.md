@@ -1,4 +1,4 @@
-# Create self host IR and make it workable in azure VMs
+# Create self host IR and make it workable in azure VMs - No Public IP to VMs
 
 ![Azure Public Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/101-vms-with-selfhost-integration-runtime/PublicLastTestDate.svg)
 ![Azure Public Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/101-vms-with-selfhost-integration-runtime/PublicDeployment.svg)
